@@ -63,8 +63,8 @@ pip install datasets transformers torch scikit-learn pandas numpy matplotlib sea
 
 ## Author
 
-[Your Name] - [University]  
-Project for [Course Name], January 2026
+LOuke Boom - Universiteit Antwerpen  
+Project for Machine Learning, January 2026
 
 ## Acknowledgments
 
