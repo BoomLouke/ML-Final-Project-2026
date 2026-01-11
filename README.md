@@ -24,7 +24,6 @@ Comparative study of emotion classification using Logistic Regression and Distil
 ├── notebooks/
 │   ├── 1_preprocessing.ipynb
 │   ├── 2_model_experiments.ipynb
-│   └── 3_visualizations.ipynb
 ├── results/                        # Confusion matrices & plots
 ├── report/
 │   └── final_report.pdf
@@ -39,8 +38,7 @@ pip install datasets transformers torch scikit-learn pandas numpy matplotlib sea
 ## Usage
 
 1. Run `1_preprocessing.ipynb` to prepare data
-2. Run `2_model_experiments.ipynb` to train models
-3. Run `3_visualizations.ipynb` to generate plots
+2. Run `2_model_experiments.ipynb` to train models and show confusion matrices
 
 ## Methods
 
@@ -63,7 +61,7 @@ pip install datasets transformers torch scikit-learn pandas numpy matplotlib sea
 
 ## Author
 
-LOuke Boom - Universiteit Antwerpen  
+Louke Boom - Universiteit Antwerpen  
 Project for Machine Learning, January 2026
 
 ## Acknowledgments
